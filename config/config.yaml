@@ -1,0 +1,5 @@
+artifacts_roots: artifacts
+data_ingestion:
+  root_dir: data_ingestion
+  local_data_file: Chicken-fecal-images.zip
+  unzip_dir: chicken-fecal-images
